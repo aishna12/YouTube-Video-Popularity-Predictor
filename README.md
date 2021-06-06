@@ -95,7 +95,7 @@ CNN and the resulting labels, giving an approximation of
 the actual views are stored as “thumbnail result” to be used
 further. <br/>
   **Architecture of CNN:** <br/>
-Number of Layers: 6
+Number of Layers: 6 <br/>
 *Layer1:* Convolution Layer with, kernel size = 5, padding
 = 2, stride = 1, dropout = 0.25, mapping one input channel
 into 16 channels. <br/>
