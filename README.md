@@ -110,13 +110,14 @@ After this, ReLu is applied on the outputs.<br/>
 neurons, dropout = 0.25.<br/>
 *Layer6:* Fully Connected Layer mapping 100 neurons
 into 10 class probabilities. <br/>
+ ![image](https://user-images.githubusercontent.com/81852314/120922056-aea7ae80-c6e4-11eb-8516-a98ac286be7b.png)
   * The ”thumbnail result” feature is now used with
 the above-mentioned features and has been trained with the
 following models, with the target variable being the actual
 number of views.
     * Support Vector Regressor
     * Random Forest Regressor
- ![image](https://user-images.githubusercontent.com/81852314/120922056-aea7ae80-c6e4-11eb-8516-a98ac286be7b.png)
+
 
 <!--RESULTS-->
 ## Results
