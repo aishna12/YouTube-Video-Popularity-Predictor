@@ -151,7 +151,7 @@ for this dataset.
 
 <!--RECOMMENDATION AND FUTURE WORK-->
 ## Recommendations and Future Work
-* A simple application could be made using thde developed algorithms
+* A simple application could be made using the developed algorithms
 where a user can enter all the features of their upcoming
 video having details of thumbnail along with other
 attributes.
